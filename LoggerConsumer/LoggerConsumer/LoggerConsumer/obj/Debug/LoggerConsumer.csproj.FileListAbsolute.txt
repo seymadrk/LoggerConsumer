@@ -1,0 +1,7 @@
+C:\Users\LG\source\repos\LoggerConsumer\LoggerConsumer\bin\Debug\LoggerConsumer.exe.config
+C:\Users\LG\source\repos\LoggerConsumer\LoggerConsumer\bin\Debug\LoggerConsumer.exe
+C:\Users\LG\source\repos\LoggerConsumer\LoggerConsumer\bin\Debug\LoggerConsumer.pdb
+C:\Users\LG\source\repos\LoggerConsumer\LoggerConsumer\obj\Debug\LoggerConsumer.csproj.CoreCompileInputs.cache
+C:\Users\LG\source\repos\LoggerConsumer\LoggerConsumer\obj\Debug\LoggerConsumer.exe
+C:\Users\LG\source\repos\LoggerConsumer\LoggerConsumer\obj\Debug\LoggerConsumer.pdb
+C:\Users\LG\source\repos\LoggerConsumer\LoggerConsumer\obj\Debug\LoggerConsumer.csprojAssemblyReference.cache
